@@ -71,3 +71,7 @@ console.log(Alia);
 const Ash=new Neptunedev('ash','neptune app dv','tamil', 'atom')
 Ash.releaseApp(1.5)
 console.log(Ash)
+
+
+// Prototypical inheritance
+console.log(Ash.name)
